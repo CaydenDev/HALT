@@ -1,3 +1,3 @@
-module github.com/cayde/halt
+module github.com/caydendev/halt
 
 go 1.21
